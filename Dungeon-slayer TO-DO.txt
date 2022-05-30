@@ -1,0 +1,15 @@
+=> Graphics
+=> Different animation states
+=> Enemies & AI
+=> Weapons
+> Level System
+> Resources
+> Inventory
+> A little house where you can tallk with NPC and trade
+> Bosses
+> Upgrade System
+
+#2.0 to-do
+> Make a 3d game using unreal engine 5
+> P2E concept
+> Deploying the game on Ethereum or Solana
