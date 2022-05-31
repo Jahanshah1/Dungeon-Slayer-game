@@ -5,7 +5,7 @@
 
 
 ## overview 
-This is a 2d Top-Down game made using Python & Pygames, it is quite simple and features animations, states, enemy AI, attacks, sound effects and more. It is currently in beta mode. This game has 3 levels with bosses at the end of each level, the bosses are linear and supposed to get harder as the user advances. The levels are written in plain text, each number in the map file represents a certain type of tile so its very important to have them.
+This is a 2d Top-Down game made using Python & Pygames, it is quite simple and features animations, states, enemy AI, attacks, sound effects and more.  This game has 3 levels with bosses at the end of each level, the bosses are linear and supposed to get harder as the user advances. The levels are written in plain text, each number in the map file represents a certain type of tile so its very important to have them. It is currently in beta mode, it will be further developed according to the roadmap.
 
 
 
@@ -16,15 +16,15 @@ This is a 2d Top-Down game made using Python & Pygames, it is quite simple and f
 - Interactive houses/huts with NPCs 
 - upgrade system 
 ### Long term plans
-- Make a 3d game using unreal engine 5
+- Make a 3d continuation game using unreal engine 5
 - P2E concept for Dungeon slayer ( where people can play the game on a certain blockchain and earn tokens in return )
 
 
 
 ## How to Run 
-**option1** - In windows simply download the zip file and run the '.exe'
+**option1** - In windows simply download the zip file and run the `.exe`
 <br />
-**option2** - If the '.exe' fails to run or you're on Mac then open the whole folder in Visual Studio code and run 'main.py' 
+**option2** - If the `.exe` fails to run or you are on a different platform then open the whole folder in Visual Studio code and run `main.py` 
 
 
 
@@ -32,13 +32,13 @@ This is a 2d Top-Down game made using Python & Pygames, it is quite simple and f
 ## Game Mechanics and preview
 There are 3 levels each conaining a boss 
 - The purple dots on top left corner are your life or how many attacks will u survive. It will increase/decrease depending on how many enemies you killed or how many blows you suffered.
-- Big demon <img width="1263" alt="Big demon" src="https://user-images.githubusercontent.com/92823408/171120968-3841c620-7c0a-4175-a018-986a99070367.png">
+- Big demon (level 1 boss) <img width="1263" alt="Big demon" src="https://user-images.githubusercontent.com/92823408/171120968-3841c620-7c0a-4175-a018-986a99070367.png">
 
-- Big Zombie <img width="1273" alt="big zombie" src="https://user-images.githubusercontent.com/92823408/171121002-5cfef93b-675e-48c1-8e6a-efa9754bc0c7.png">
+- Big Zombie(level 2 boss)<img width="1273" alt="big zombie" src="https://user-images.githubusercontent.com/92823408/171121002-5cfef93b-675e-48c1-8e6a-efa9754bc0c7.png">
 
-- Wogol<img width="1265" alt="Wogol" src="https://user-images.githubusercontent.com/92823408/171121473-d7b9a13c-2a2f-4717-9d5d-4a2d3c9a3f13.png">
+- Wogol(level 3 boss)<img width="1265" alt="Wogol" src="https://user-images.githubusercontent.com/92823408/171121473-d7b9a13c-2a2f-4717-9d5d-4a2d3c9a3f13.png">
 
-- After clearing the first level this will be displayed, to continue press E
+- After clearing the first level this will be displayed, to advance to the next level press E
 <img width="1273" alt="You finished the game" src="https://user-images.githubusercontent.com/92823408/171123005-569e69dc-29b1-4f91-bbb2-f15878fa8d6b.png">
 
 
@@ -47,7 +47,7 @@ There are 3 levels each conaining a boss
 - Space bar is to attack
 
 
-## Preview of the continuation 3d game ( Currently underd evelopment )
+## Preview of the continuation 3d game ( Currently under evelopment )
 
 
 https://user-images.githubusercontent.com/92823408/171125931-dbd7fcfd-a2c9-4351-9bed-0cb2636893d9.mp4
