@@ -5,7 +5,7 @@
 
 
 ## overview 
-This is a 2d Top-Down game made using Python & Pygames, it is relatively simple and features animations, states, enemy AI, attacks, sound effects and more. It is currently in beta mode. This game features 3 levels with bosses in the end, the bosses are linear and supposed to get harder as the user advances through levels. The levels are written in plain text, each number in the map file represents a certain type of tile so its very important to have them.
+This is a 2d Top-Down game made using Python & Pygames, it is quite simple and features animations, states, enemy AI, attacks, sound effects and more. It is currently in beta mode. This game has 3 levels with bosses at the end of each level, the bosses are linear and supposed to get harder as the user advances. The levels are written in plain text, each number in the map file represents a certain type of tile so its very important to have them.
 
 
 
@@ -15,8 +15,9 @@ This is a 2d Top-Down game made using Python & Pygames, it is relatively simple 
 - Inventory system with more weapons
 - Interactive houses/huts with NPCs 
 - upgrade system 
+### Long term plans
 - Make a 3d game using unreal engine 5
-- P2E concept for Dungeon slayer ( where people can play the game on any blockchain and earn tokens in return )
+- P2E concept for Dungeon slayer ( where people can play the game on a certain blockchain and earn tokens in return )
 
 
 
