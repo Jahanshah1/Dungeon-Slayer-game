@@ -1,15 +1,15 @@
 # Dungeon-Slayer-game
 
-### Screenshot
+## Screenshot
 <img width="1257" alt="start" src="https://user-images.githubusercontent.com/92823408/171115867-f241436e-c889-4827-9f67-edba7a49435b.png">
 
 
-### overview 
+## overview 
 This is a 2d Top-Down game made using Python & Pygames, it is relatively simple and features animations, states, enemy AI, attacks, sound effects and more. It is currently in beta mode. This game features 3 levels with bosses in the end, the bosses are linear and supposed to get harder as the user advances through levels. The levels are written in plain text, each number in the map file represents a certain type of tile so its very important to have them.
 
 
 
-### Future Plans/Roadmap 
+## Future Plans/Roadmap 
 - Add more levels and make it more open world style 
 - Fix some bugs 
 - Inventory system with more weapons
@@ -20,7 +20,7 @@ This is a 2d Top-Down game made using Python & Pygames, it is relatively simple 
 
 
 
-### How to Run 
+## How to Run 
 **option1** - In windows simply download the zip file and run the '.exe'
 <br />
 **option2** - If the '.exe' fails to run or you're on Mac then open the whole folder in Visual Studio code and run 'main.py' 
