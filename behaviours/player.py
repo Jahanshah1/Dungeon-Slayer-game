@@ -209,7 +209,7 @@ class player:
             for i in range(0, self.health):
                 pg.draw.rect(surf, (255, 150, 200), pg.Rect(10 * i + 10, 10, 5, 5))
         if self.state == "failed":
-            text("You died, press any key to play again", (255, 255, 255), 
+            text("You died, press E to play again", (255, 255, 255), 
                   40, surf.get_size()[0] / 2, surf.get_size()[1] / 2, "res/m5x7.ttf",
                   surf)  
 
