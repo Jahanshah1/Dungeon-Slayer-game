@@ -15,6 +15,7 @@ This is a 2d Top-Down game made using Python & Pygames, it is quite simple and f
 - Inventory system with more weapons
 - Interactive houses/huts with NPCs 
 - upgrade system 
+- open world style
 ### Long term plans
 - Make a 3d continuation game using unreal engine 5
 - P2E concept for Dungeon slayer ( where people can play the game on a certain blockchain and earn tokens in return )
