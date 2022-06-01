@@ -24,7 +24,7 @@ This is a 2d Top-Down game made using Python & Pygames, it is quite simple and f
 ## How to Run 
 **option1** - In windows simply download the zip file and run the `.exe`
 <br />
-**option2** - If the `.exe` fails to run or you are on a different platform then open the whole folder in Visual Studio code and run `main.py` 
+**option2** - If the `.exe` fails to run or if you are on a different platform then open the whole folder in Visual Studio code and run `main.py` 
 
 
 
