@@ -42,6 +42,8 @@ There are 3 levels each conaining a boss
 - After clearing the first level this will be displayed, to advance to the next level press E
 <img width="1273" alt="You finished the game" src="https://user-images.githubusercontent.com/92823408/171123005-569e69dc-29b1-4f91-bbb2-f15878fa8d6b.png">
 
+- Gameplay video: https://www.youtube.com/watch?v=koJT3hxtYss&t=12s
+
 
 ### Controls 
 - WASD is to move 
